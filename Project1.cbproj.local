@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.05.29 15:17:55.794,=F:\My Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2022.05.29 15:17:55.984,=F:\My Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2022.05.29 15:18:24.249,F:\Inbox\C++\TemirYol\Unit1.h=F:\My Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2022.05.29 15:18:24.249,F:\Inbox\C++\TemirYol\Unit1.dfm=F:\My Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2022.05.29 15:18:24.249,F:\Inbox\C++\TemirYol\Unit1.cpp=F:\My Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2022.05.29 15:18:28.618,F:\Inbox\C++\TemirYol\Project1PCH1.h=F:\My Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2022.05.29 15:18:32.690,F:\Inbox\C++\TemirYol\Project1.cbproj=F:\My Documents\Embarcadero\Studio\Projects\Project4.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
